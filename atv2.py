@@ -77,5 +77,4 @@ class GerenciadorDeEstoque:
         
         print(f"\nVALOR TOTAL DO ESTOQUE: R$ {valor_total_estoque:.2f}")
 
-# Inicializa o sistema
 sistema_estoque = GerenciadorDeEstoque()
