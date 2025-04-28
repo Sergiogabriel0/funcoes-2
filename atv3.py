@@ -97,5 +97,4 @@ class SistemaDeReservas:
             except ValueError:
                 print("Por favor, digite apenas números.")
 
-# Inicia o sistema de reservas
-sala_cinema = SistemaDeReservas()
+iniciar = SistemaDeReservas()
